@@ -1,0 +1,206 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-04-04 03:15+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: View/Elements/menu.ctp:5
+msgid "Toggle navigation"
+msgstr ""
+
+#: View/Elements/menu.ctp:10
+#: View/Pages/home.ctp:6;25
+msgid "Kloder"
+msgstr ""
+
+#: View/Elements/menu.ctp:21
+msgid "Avatar"
+msgstr ""
+
+#: View/Elements/menu.ctp:28
+msgid "Profile"
+msgstr ""
+
+#: View/Elements/menu.ctp:29
+msgid "Inbox"
+msgstr ""
+
+#: View/Elements/menu.ctp:31
+msgid "Log Out"
+msgstr ""
+
+#: View/Elements/menu.ctp:41
+msgid "Users"
+msgstr ""
+
+#: View/Elements/menu.ctp:42
+msgid "Groups"
+msgstr ""
+
+#: View/Elements/menu.ctp:43
+msgid "Repositories"
+msgstr ""
+
+#: View/Elements/menu.ctp:44
+msgid "Languages"
+msgstr ""
+
+#: View/Elements/menu.ctp:45
+msgid "Plugins"
+msgstr ""
+
+#: View/Elements/menu.ctp:46
+msgid "Notices"
+msgstr ""
+
+#: View/Elements/pagination.ctp:2
+msgid "First"
+msgstr ""
+
+#: View/Elements/pagination.ctp:8
+msgid "Last"
+msgstr ""
+
+#: View/Elements/subsidebar.ctp:3
+msgid "Dashboard"
+msgstr ""
+
+#: View/Errors/error400.ctp:21
+#: View/Errors/error500.ctp:21
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Pages/home.ctp:8
+msgid "Home"
+msgstr ""
+
+#: View/Pages/home.ctp:10
+msgid "About"
+msgstr ""
+
+#: View/Pages/home.ctp:12;52
+msgid "Reasons"
+msgstr ""
+
+#: View/Pages/home.ctp:14
+msgid "Prices"
+msgstr ""
+
+#: View/Pages/home.ctp:16
+msgid "Contact"
+msgstr ""
+
+#: View/Pages/home.ctp:26
+msgid "<em>We</em> Make Your Life Easier, <em>You</em> Make Us Better"
+msgstr ""
+
+#: View/Pages/home.ctp:27
+msgid "Login"
+msgstr ""
+
+#: View/Pages/home.ctp:28
+msgid "or"
+msgstr ""
+
+#: View/Pages/home.ctp:29
+msgid "Try Demo"
+msgstr ""
+
+#: View/Pages/home.ctp:39
+msgid "Kloder is your perfect site for take care of your clients and your own bussiness!"
+msgstr ""
+
+#: View/Pages/home.ctp:40
+msgid "We are proud to introduce the tool to change the way you plan ahead and make the arrangements a pleasure."
+msgstr ""
+
+#: View/Pages/home.ctp:60
+msgid "Quick Response"
+msgstr ""
+
+#: View/Pages/home.ctp:61
+msgid "We are actively working for you, so listen to any proposals or suggestions for improvement"
+msgstr ""
+
+#: View/Pages/home.ctp:67
+msgid "Attractive Design"
+msgstr ""
+
+#: View/Pages/home.ctp:68
+msgid "Our clear and simple design makes the use of this platform something delicious"
+msgstr ""
+
+#: View/Pages/home.ctp:74
+msgid "Data Protection"
+msgstr ""
+
+#: View/Pages/home.ctp:75
+msgid "We protect your data against any loss thanks to our cloud storage"
+msgstr ""
+
+#: View/Pages/home.ctp:81
+msgid "Easy to Use"
+msgstr ""
+
+#: View/Pages/home.ctp:82
+msgid "Our main goal is to make this platform as easy to use as possible"
+msgstr ""
+
+#: View/Pages/home.ctp:93
+msgid "Stop wasting time and enjoy the best"
+msgstr ""
+
+#: View/Pages/home.ctp:104
+msgid "Monthly"
+msgstr ""
+
+#: View/Pages/home.ctp:106
+msgid "Web store your data almost three month"
+msgstr ""
+
+#: View/Pages/home.ctp:107
+msgid "Wana try? this is your offer"
+msgstr ""
+
+#: View/Pages/home.ctp:108
+msgid "Work intermitency? this is for you"
+msgstr ""
+
+#: View/Pages/home.ctp:110;119
+msgid "Taxes not included"
+msgstr ""
+
+#: View/Pages/home.ctp:115
+msgid "Yearly"
+msgstr ""
+
+#: View/Pages/home.ctp:117
+msgid "Relax for the rest of the year"
+msgstr ""
+
+#: View/Pages/home.ctp:132
+msgid "For any information please contact"
+msgstr ""
+
+#: webroot/test.php:87
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

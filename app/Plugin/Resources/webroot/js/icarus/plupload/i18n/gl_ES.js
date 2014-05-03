@@ -1,0 +1,26 @@
+// Spanish
+plupload.addI18n({
+	'Select files' : 'Seleccionar arquivos:',
+	'Add files to the upload queue and click the start button.' : 'Agrega arquivos á cola de subida e fai clic no bot&oacute;n de iniciar.',
+	'Filename' : 'Nome do arquivo',
+	'Status' : 'Estado',
+	'Size' : 'Tama&ntilde;o',
+	'Add files' : 'Agregar arquivos',
+	'Stop current upload' : 'Deter subida actual',
+	'Start uploading queue' : 'Iniciar subida de cola',
+	'Uploaded %d/%d files': 'Subidos %d/%d arquivos',
+	'N/A' : 'Non dispo&ntilde;ible',
+	'Using runtime: ': 'Usando runtime: ',
+	'Drag files here.' : 'Tam&eacute;n podes arrastrar arquivos aqu&iacute;',
+	'File extension error.': 'Erro de extensi&oacute;n de arquivo.',
+	'File size error.': 'Erro de tama&ntilde;o de arquivo.',
+	'Init error.': 'Erro de inicializaci&oacute;n.',
+	'HTTP Error.': 'Erro de HTTP.',
+	'Security error.': 'Erro de seguridade.',
+	'Generic error.': 'Erro xen&eacute;rico.',
+	'IO error.': 'Erro de entrada/sa&iacute;da.',
+	'Stop Upload': 'Deter Subida.',
+	'Add Files': 'Agregar Arquivos',
+	'Start Upload': 'Comezar Subida.',
+	'%d files queued': '%d arquivos en cola.'
+});

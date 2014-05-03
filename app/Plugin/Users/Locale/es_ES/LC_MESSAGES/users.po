@@ -1,0 +1,254 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kloder\n"
+"POT-Creation-Date: 2014-02-19 14:51+0000\n"
+"PO-Revision-Date: 2014-02-19 15:52+0100\n"
+"Last-Translator: Javier <jlopezcur@gmail.com>\n"
+"Language-Team: Kloder <hello@kloder.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: Controller/ProfileController.php:32
+msgid "The profile has been saved"
+msgstr "El perfil se ha guardado"
+
+#: Controller/ProfileController.php:35
+msgid "The profile could not be saved. Please, try again."
+msgstr "El perfil no pudo guardarse. Por favor, inténtelo de nuevo."
+
+#: Controller/UsersController.php:19
+msgid "Invalid username or password, try again"
+msgstr "Nombre de usuario o contraseña no válidos, inténtelo de nuevo"
+
+#: Controller/UsersController.php:46;59
+msgid "The user has been saved"
+msgstr "El usuario ha sido guardado"
+
+#: Controller/UsersController.php:49;62
+msgid "The user could not be saved. Please, try again."
+msgstr "El usuario no se pudo guardar. Por favor, inténtelo de nuevo."
+
+#: Controller/UsersController.php:76
+msgid "Invalid user"
+msgstr "Usuario no válido"
+
+#: Controller/UsersController.php:79
+msgid "User deleted"
+msgstr "Usuario eliminado"
+
+#: Controller/UsersController.php:82
+msgid "User was not deleted"
+msgstr "El usuario no fue eliminado"
+
+#: Controller/UsersGroupsController.php:21
+msgid "The group has been saved"
+msgstr "El grupo ha sido guardado"
+
+#: Controller/UsersGroupsController.php:24
+msgid "The group could not be saved. Please, try again."
+msgstr "El grupo no pudo guardarse. Por favor, inténtelo de nuevo."
+
+#: Controller/UsersGroupsController.php:31
+msgid "The group has been update"
+msgstr "El grupo ha sido actualizado"
+
+#: Controller/UsersGroupsController.php:34
+msgid "The group could not be update. Please, try again."
+msgstr "El grupo no pudo actualizarse. Por favor, inténtelo de nuevo."
+
+#: View/Elements/groups/list_item.ctp:11 View/Elements/users/list_item.ctp:20
+#: View/UsersGroups/view.ctp:3;7
+msgid "View"
+msgstr "Ver"
+
+#: View/Elements/groups/list_item.ctp:12 View/Elements/users/list_item.ctp:21
+#: View/Profile/edit.ctp:6 View/Profile/index.ctp:27 View/Profile/view.ctp:20
+#: View/Users/edit.ctp:6 View/UsersGroups/edit.ctp:3;7
+msgid "Edit"
+msgstr "Editar"
+
+#: View/Elements/groups/list_item.ctp:14 View/Elements/users/list_item.ctp:22
+msgid "Delete"
+msgstr "Eliminar"
+
+#: View/Elements/users/list_item.ctp:8
+msgid "Never"
+msgstr "Nunca"
+
+#: View/Profile/edit.ctp:5 View/Profile/index.ctp:5 View/Profile/view.ctp:5
+msgid "Profile"
+msgstr "Perfil"
+
+#: View/Profile/edit.ctp:17 View/Profile/index.ctp:17 View/Users/index.ctp:27
+msgid "Email"
+msgstr "Email"
+
+#: View/Profile/edit.ctp:20 View/Users/add.ctp:20 View/Users/edit.ctp:21
+#: View/UsersGroups/add.ctp:14 View/UsersGroups/edit.ctp:16
+#: View/UsersGroups/index.ctp:22
+msgid "Name"
+msgstr "Nombre"
+
+#: View/Profile/edit.ctp:23 View/Users/add.ctp:21 View/Users/edit.ctp:22
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: View/Profile/edit.ctp:28 View/Profile/index.ctp:18
+msgid "English"
+msgstr "Inglés"
+
+#: View/Profile/edit.ctp:47 View/Profile/index.ctp:21
+msgid "Sunday"
+msgstr "Domingo"
+
+#: View/Profile/edit.ctp:48 View/Profile/index.ctp:21
+msgid "Monday"
+msgstr "Lunes"
+
+#: View/Profile/edit.ctp:49 View/Profile/index.ctp:21
+msgid "Tuesday"
+msgstr "Martes"
+
+#: View/Profile/edit.ctp:50 View/Profile/index.ctp:21
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: View/Profile/edit.ctp:51 View/Profile/index.ctp:21
+msgid "Thursday"
+msgstr "Jueves"
+
+#: View/Profile/edit.ctp:52 View/Profile/index.ctp:21
+msgid "Friday"
+msgstr "Viernes"
+
+#: View/Profile/edit.ctp:53 View/Profile/index.ctp:21
+msgid "Saturday"
+msgstr "Sábado"
+
+#: View/Profile/edit.ctp:58 View/Users/add.ctp:23 View/Users/edit.ctp:24
+#: View/UsersGroups/add.ctp:16 View/UsersGroups/edit.ctp:18
+msgid "Save"
+msgstr "Guardar"
+
+#: View/Profile/index.ctp:13 View/Profile/view.ctp:13
+msgid "Avatar"
+msgstr "Avatar"
+
+#: View/Profile/index.ctp:18
+msgid "Language"
+msgstr "Idioma"
+
+#: View/Profile/index.ctp:19
+msgid "Date Format"
+msgstr "Formato de fecha"
+
+#: View/Profile/index.ctp:20
+msgid "Time Format"
+msgstr "Formato de hora"
+
+#: View/Profile/index.ctp:22
+msgid "First Day"
+msgstr "Primer día"
+
+#: View/Users/add.ctp:5 View/Users/edit.ctp:5 View/Users/index.ctp:3;5
+#: View/UsersGroups/add.ctp:5 View/UsersGroups/edit.ctp:5
+#: View/UsersGroups/index.ctp:5 View/UsersGroups/view.ctp:5
+msgid "Users"
+msgstr "Usuarios"
+
+#: View/Users/add.ctp:6 View/UsersGroups/add.ctp:3;7
+msgid "Add"
+msgstr "Añadir"
+
+#: View/Users/add.ctp:13 View/Users/edit.ctp:14
+msgid "Email address"
+msgstr "Dirección de email"
+
+#: View/Users/add.ctp:15 View/Users/edit.ctp:16 View/Users/index.ctp:25
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: View/Users/add.ctp:16 View/Users/edit.ctp:17 View/Users/login.ctp:6
+msgid "Password"
+msgstr "Contraseña"
+
+#: View/Users/add.ctp:17 View/Users/edit.ctp:18
+msgid "Group"
+msgstr "Grupo"
+
+#: View/Users/index.ctp:3;6 View/UsersGroups/index.ctp:3
+msgid "Administration"
+msgstr "Administración"
+
+#: View/Users/index.ctp:12
+msgid "Add User"
+msgstr "Añadir usuario"
+
+#: View/Users/index.ctp:16 View/UsersGroups/add.ctp:3;6
+#: View/UsersGroups/edit.ctp:3;6 View/UsersGroups/index.ctp:3;6
+#: View/UsersGroups/view.ctp:3;6
+msgid "Groups"
+msgstr "Grupos"
+
+#: View/Users/index.ctp:26
+msgid "Role"
+msgstr "Rol"
+
+#: View/Users/index.ctp:28
+msgid "Last Access"
+msgstr "Último Acceso"
+
+#: View/Users/login.ctp:4
+msgid "Please sign in"
+msgstr "Por favor, identifíquese"
+
+#: View/Users/login.ctp:5 View/Users/lostpassword.ctp:4
+msgid "Username or Email"
+msgstr "Nombre de usuario o email"
+
+#: View/Users/login.ctp:7
+msgid "Remember me"
+msgstr "Recuerdame"
+
+#: View/Users/login.ctp:8
+msgid "Sign in"
+msgstr "Registrarse"
+
+#: View/Users/login.ctp:10 View/Users/lostpassword.ctp:2
+msgid "Forget your password?"
+msgstr "¿Olvido su contraseña?"
+
+#: View/Users/lostpassword.ctp:3
+msgid ""
+"Don't worry, we can reset your password, you only need to set your username "
+"or email here and we send you a reset password link."
+msgstr ""
+"No se preocupe, podemos restablecer su contraseña, sólo necesitamos que nos "
+"indique su nombre de usuario o email y le enviaremos un enlace para "
+"restablecer su contraseña."
+
+#: View/Users/lostpassword.ctp:6
+msgid "Reset password"
+msgstr "Restablecer contraseña"
+
+#: View/Users/lostpassword.ctp:8
+msgid "&laquo; Back"
+msgstr "&laquo; Volver"
+
+#: View/UsersGroups/index.ctp:12
+msgid "Add Group"
+msgstr "Añadir grupo"
+
+#: View/UsersGroups/index.ctp:21
+msgid "ID"
+msgstr "ID"
+
+#: View/UsersGroups/view.ctp:15
+msgid "Back"
+msgstr "Volver"

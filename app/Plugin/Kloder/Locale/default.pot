@@ -1,0 +1,76 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-04-04 03:15+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/OptionsController.php:18
+msgid "Settings saved"
+msgstr ""
+
+#: Controller/OptionsController.php:21
+msgid "Settings error on save"
+msgstr ""
+
+#: View/Dashboard/index.ctp:3;5
+msgid "Dashboard"
+msgstr ""
+
+#: View/Dashboard/index.ctp:3
+msgid "Welcome"
+msgstr ""
+
+#: View/Dashboard/index.ctp:9
+msgid "Welcome to <b>Kloder</b>! Feel free to use all the power in this platform! You can make big things with it and we are at your service to provide you with the best tools ever you have seen, only give a try and you fall in love with Kloder. Don't forget, you are amazing!"
+msgstr ""
+
+#: View/Helper/KFormHelper.php:129
+msgid "Thumbnail"
+msgstr ""
+
+#: View/Helper/KFormHelper.php:133
+msgid "Select image"
+msgstr ""
+
+#: View/Helper/KFormHelper.php:133
+msgid "Change"
+msgstr ""
+
+#: View/Helper/KFormHelper.php:135
+msgid "Remove"
+msgstr ""
+
+#: View/Helper/KHtmlHelper.php:11
+msgid "Open Dialog"
+msgstr ""
+
+#: View/Helper/KHtmlHelper.php:12
+msgid "Title"
+msgstr ""
+
+#: View/Helper/KHtmlHelper.php:13
+msgid "Close"
+msgstr ""
+
+#: View/Helper/KHtmlHelper.php:14
+msgid "Content"
+msgstr ""
+
+#: View/SystemCheck/index.ctp:70
+msgid "Settings"
+msgstr ""
+
+#: View/SystemCheck/index.ctp:70
+msgid "System Check"
+msgstr ""
+

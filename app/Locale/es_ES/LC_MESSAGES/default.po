@@ -1,0 +1,455 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kloder\n"
+"POT-Creation-Date: 2014-01-31 06:01+0000\n"
+"PO-Revision-Date: 2014-01-31 07:06+0100\n"
+"Last-Translator: Javier <jlopezcur@gmail.com>\n"
+"Language-Team: Kloder <hello@kloder.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: View/Dashboard/index.ctp:3;5 View/Elements/sidebar.ctp:9
+#: View/Elements/subsidebar.ctp:3
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: View/Dashboard/index.ctp:3
+msgid "Welcome"
+msgstr "Bienvenido/a"
+
+#: View/Dashboard/index.ctp:9
+msgid ""
+"Welcome to <b>Kloder</b>! Feel free to use all the power in this platform! "
+"You can make big things with it and we are at your service to provide you "
+"with the best tools ever you have seen, only give a try and you fall in love "
+"with Kloder. Don't forget, you are amazing!"
+msgstr ""
+"¡Bienvenido/a a <b>Kloder</b>! ¡Siéntete libre de explorar todo el potencial "
+"de esta plataforma! Puedes hacer grandes cosas con ella y nosotros estaremos "
+"a tu servicio para proveerte con las mejores herramientas que hayas visto "
+"jamas, sólo dale una oportunidad y te robará el corazón. No lo olvides, "
+"cuando no tienes que preocuparte de los medios puedes hacer cosas muy "
+"grandes ;)"
+
+#: View/Elements/menu.ctp:5
+msgid "Toggle navigation"
+msgstr "Conmutar navegación"
+
+#: View/Elements/menu.ctp:10 View/Pages/home.ctp:25
+msgid "Kloder"
+msgstr "Kloder"
+
+#: View/Elements/menu.ctp:21
+msgid "Avatar"
+msgstr "Avatar"
+
+#: View/Elements/menu.ctp:28
+msgid "Profile"
+msgstr "Perfil"
+
+#: View/Elements/menu.ctp:29
+msgid "Inbox"
+msgstr "Bandeja de entrada"
+
+#: View/Elements/menu.ctp:31
+msgid "Log Out"
+msgstr "Salir"
+
+#: View/Elements/menu.ctp:41
+msgid "Users"
+msgstr "Usuarios"
+
+#: View/Elements/menu.ctp:42 View/Repositories/index.ctp:1
+msgid "Repositories"
+msgstr "Repositorios"
+
+#: View/Elements/menu.ctp:43
+msgid "Languages"
+msgstr "Idiomas"
+
+#: View/Elements/menu.ctp:44 View/Repositories/index.ctp:6
+msgid "Plugins"
+msgstr "Plugins"
+
+#: View/Elements/pagination.ctp:2
+msgid "First"
+msgstr "Primero"
+
+#: View/Elements/pagination.ctp:8
+msgid "Last"
+msgstr "Último"
+
+#: View/Errors/error400.ctp:21 View/Errors/error500.ctp:21
+msgid "Error"
+msgstr "Error"
+
+#: View/Errors/error400.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr "La dirección solicitada %s no ha sido encontrada en este servidor."
+
+#: View/Errors/error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr "Ha ocurrido un error interno."
+
+#: View/Helper/KFormHelper.php:130
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: View/Helper/KFormHelper.php:134
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+#: View/Helper/KFormHelper.php:134
+msgid "Change"
+msgstr "Cambiar"
+
+#: View/Helper/KFormHelper.php:136
+msgid "Remove"
+msgstr "Borrar"
+
+#: View/Helper/KHtmlHelper.php:11
+msgid "Open Dialog"
+msgstr "Abrir dialogo"
+
+#: View/Helper/KHtmlHelper.php:12
+msgid "Title"
+msgstr "Título"
+
+#: View/Helper/KHtmlHelper.php:13
+msgid "Close"
+msgstr "Cerrar"
+
+#: View/Helper/KHtmlHelper.php:14
+msgid "Content"
+msgstr "Contenido"
+
+#: View/Pages/home.ctp:6
+msgid "Kldoer"
+msgstr "Kloder"
+
+#: View/Pages/home.ctp:8
+msgid "Home"
+msgstr "Inicio"
+
+#: View/Pages/home.ctp:10
+msgid "About"
+msgstr "Acerca de"
+
+#: View/Pages/home.ctp:12;52
+msgid "Reasons"
+msgstr "Razones"
+
+#: View/Pages/home.ctp:14
+msgid "Prices"
+msgstr "Precios"
+
+#: View/Pages/home.ctp:16
+msgid "Contact"
+msgstr "Contacto"
+
+#: View/Pages/home.ctp:26
+msgid "<em>We</em> Make Your Life Easier, <em>You</em> Make Us Better"
+msgstr ""
+"<em>Nosotros</em> te hacemos la vida más fácil, <em>Tú</em> nos haces mejorar"
+
+#: View/Pages/home.ctp:27
+msgid "Login"
+msgstr "Identificación"
+
+#: View/Pages/home.ctp:28
+msgid "or"
+msgstr "or"
+
+#: View/Pages/home.ctp:29
+msgid "Try Demo"
+msgstr "Probar"
+
+#: View/Pages/home.ctp:39
+msgid ""
+"Kloder is your perfect site for take care of your clients and your own "
+"bussiness!"
+msgstr ""
+"Kloder es su sitio perfecto para cuidar de sus clientes y de su negocio"
+
+#: View/Pages/home.ctp:40
+msgid ""
+"We are proud to introduce the tool to change the way you plan ahead and make "
+"the arrangements a pleasure."
+msgstr ""
+"Estamos orgullosos de presentarle la herramienta que cambiará su forma de "
+"planificación y hará de la administración un placer."
+
+#: View/Pages/home.ctp:60
+msgid "Quick Response"
+msgstr "Respuesta rápida"
+
+#: View/Pages/home.ctp:61
+msgid ""
+"We are actively working for you, so listen to any proposals or suggestions "
+"for improvement"
+msgstr ""
+"Estamos trabajando activamente para ti, de modo que escucharemos cualquier "
+"propuesta o sugerencia que desees hacernos"
+
+#: View/Pages/home.ctp:67
+msgid "Attractive Design"
+msgstr "Diseño atractivo"
+
+#: View/Pages/home.ctp:68
+msgid ""
+"Our clear and simple design makes the use of this platform something "
+"delicious"
+msgstr ""
+"Nuestro diseño limpio y sencillo hace del uso de esta plataforma algo "
+"delicioso"
+
+#: View/Pages/home.ctp:74
+msgid "Data Protection"
+msgstr "Protección de datos"
+
+#: View/Pages/home.ctp:75
+msgid "We protect your data against any loss thanks to our cloud storage"
+msgstr ""
+"Protegemos sus datos contra cualquier perdida gracias a nuestro "
+"almacenamiento en la nube"
+
+#: View/Pages/home.ctp:81
+msgid "Easy to Use"
+msgstr "Fácil de usar"
+
+#: View/Pages/home.ctp:82
+msgid "Our main goal is to make this platform as easy to use as possible"
+msgstr ""
+"Nuestro principal objetivo es hacer esta plataforma tan fácil de usar como "
+"sea posible"
+
+#: View/Pages/home.ctp:93
+msgid "Stop wasting time and enjoy the best"
+msgstr "Deje de perder tiempo y disfrute de lo mejor"
+
+#: View/Pages/home.ctp:104
+msgid "Monthly"
+msgstr "Mensual"
+
+#: View/Pages/home.ctp:106
+msgid "Web store your data almost three month"
+msgstr "Almacenamos sus datos durante almenos tres meses"
+
+#: View/Pages/home.ctp:107
+msgid "Wana try? this is your offer"
+msgstr "¿Quiere probar? Esta es su oferta"
+
+#: View/Pages/home.ctp:108
+msgid "Work intermitency? this is for you"
+msgstr "¿Trabajo intermitente? Esto es para usted"
+
+#: View/Pages/home.ctp:110;119
+msgid "Taxes not included"
+msgstr "Impuestos no incluidos"
+
+#: View/Pages/home.ctp:115
+msgid "Yearly"
+msgstr "Anual"
+
+#: View/Pages/home.ctp:117
+msgid "Relax for the rest of the year"
+msgstr "Relájese el resto del año"
+
+#: View/Pages/home.ctp:132
+msgid "For any information please contact"
+msgstr "Para cualquier información, póngase en contacto con nosotros"
+
+#: View/Repositories/index.ctp:5
+msgid "Name"
+msgstr "Nombre"
+
+#: View/Repositories/index.ctp:7
+msgid "URL"
+msgstr "URL"
+
+#: View/Repositories/index.ctp:8
+msgid "Actions"
+msgstr "Acciones"
+
+#: View/Repositories/index.ctp:16
+msgid "Update"
+msgstr "Actualizar"
+
+#: View/Repositories/index.ctp:17
+msgid "Edit"
+msgstr "Editar"
+
+#: View/Repositories/index.ctp:18
+msgid "Delete"
+msgstr "Borrar"
+
+#~ msgid "Plugin %s Installed"
+#~ msgstr "test"
+
+#~ msgid "Error opening ZIP file"
+#~ msgstr "Error abriendo el archivo ZIP"
+
+#~ msgid "Plugin %s Deleted"
+#~ msgstr "El plugin %s ha sido eliminado"
+
+#~ msgid "Tax deleted"
+#~ msgstr "Impuesto eliminado"
+
+#~ msgid "View"
+#~ msgstr "Ver"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Add"
+#~ msgstr "Añadir"
+
+#~ msgid "Add User"
+#~ msgstr "Añadir Usuario"
+
+#~ msgid "Username"
+#~ msgstr "Nombre de usuario"
+
+#~ msgid "Role"
+#~ msgstr "Rol"
+
+#~ msgid "Invalid group."
+#~ msgstr "Grupo no válido."
+
+#~ msgid "The group has been saved"
+#~ msgstr "El grupo se ha guardado"
+
+#~ msgid "The group could not be saved. Please, try again"
+#~ msgstr "El grupo no puede ser guardado. Por favor, inténtelo de nuevo"
+
+#~ msgid "Invalid group"
+#~ msgstr "Grupo no válido"
+
+#~ msgid "You cannot edit the group administrators"
+#~ msgstr "No puede editar el grupo de administradores"
+
+#~ msgid "The group could not be saved. Please, try again."
+#~ msgstr "El grupo no ha sido guardado. Por favor, inténtelo de nuevo"
+
+#~ msgid "Impossible to delete this group"
+#~ msgstr "Imposible eliminar este grupo"
+
+#~ msgid "Group deleted"
+#~ msgstr "Grupo eliminado"
+
+#~ msgid "Settings saved"
+#~ msgstr "Configuraciones guardadas"
+
+#~ msgid "Settings error on save"
+#~ msgstr "Error al guardar configuración"
+
+#~ msgid "Invalid Rule."
+#~ msgstr "Regla no válida."
+
+#~ msgid "Action"
+#~ msgstr "Acción"
+
+#~ msgid "Password"
+#~ msgstr "Contraseña"
+
+#~ msgid "Register"
+#~ msgstr "Registrar"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirmar"
+
+#~ msgid "Products"
+#~ msgstr "Productos"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Add Product"
+#~ msgstr "Añadir producto"
+
+#~ msgid "Wishlist"
+#~ msgstr "Lista de deseos"
+
+#~ msgid "Add to whislist"
+#~ msgstr "Añadir a la lista de deseos"
+
+#~ msgid "Price"
+#~ msgstr "Precio"
+
+#~ msgid "Cost / Benefit"
+#~ msgstr "Coste / Beneficio"
+
+#~ msgid "Materiales"
+#~ msgstr "Materiales"
+
+#~ msgid "Participantes"
+#~ msgstr "Participantes"
+
+#~ msgid "New event"
+#~ msgstr "Nuevo evento"
+
+#~ msgid "Back"
+#~ msgstr "Volver"
+
+#~ msgid "Red"
+#~ msgstr "Rojo"
+
+#~ msgid "Green"
+#~ msgstr "Verde"
+
+#~ msgid "Blue"
+#~ msgstr "Azul"
+
+#~ msgid "Hour"
+#~ msgstr "Hora"
+
+#~ msgid "Day"
+#~ msgstr "Día"
+
+#~ msgid "Week"
+#~ msgstr "Semana"
+
+#~ msgid "Month"
+#~ msgstr "Mes"
+
+#~ msgid "Year"
+#~ msgstr "Año"
+
+#~ msgid "Edit event"
+#~ msgstr "Editar evento"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
+
+#~ msgid "Search..."
+#~ msgstr "Buscar..."
+
+#~ msgid "Version"
+#~ msgstr "Versión"
+
+#~ msgid "Link"
+#~ msgstr "Enlace"
+
+#~ msgid "URI"
+#~ msgstr "URI"
+
+#~ msgid "Install"
+#~ msgstr "Instalar"
+
+#~ msgid "Install plugin"
+#~ msgstr "Instalar plugin"
+
+#~ msgid "Develop"
+#~ msgstr "Desarrollo"
+
+#~ msgid "Package"
+#~ msgstr "Paquete"

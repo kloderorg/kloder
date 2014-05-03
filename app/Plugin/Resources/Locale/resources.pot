@@ -1,0 +1,176 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-04-04 03:15+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ResourcesFilesController.php:107
+#: Controller/ResourcesLinksController.php:41
+msgid "Your file has been saved."
+msgstr ""
+
+#: Controller/ResourcesFilesController.php:116
+msgid "Your file has been update."
+msgstr ""
+
+#: Controller/ResourcesFoldersController.php:77
+msgid "Your folder has been saved."
+msgstr ""
+
+#: Controller/ResourcesFoldersController.php:86
+msgid "Your folder has been updated."
+msgstr ""
+
+#: Controller/ResourcesLinksController.php:63
+msgid "Your link has been updated."
+msgstr ""
+
+#: Model/Behavior/UploadBehavior.php:285
+msgid "File was not downloaded."
+msgstr ""
+
+#: View/Elements/add_button.ctp:1
+msgid "Folder"
+msgstr ""
+
+#: View/Elements/add_button.ctp:3
+msgid "File"
+msgstr ""
+
+#: View/Elements/add_button.ctp:4
+#: View/ResourcesLinks/add.ctp:15
+#: View/ResourcesLinks/edit.ctp:16
+msgid "Link"
+msgstr ""
+
+#: View/Elements/subsidebar.ctp:3
+#: View/Resources/index.ctp:4;6
+#: View/Resources/trash.ctp:4;6
+#: View/ResourcesFiles/add.ctp:5
+#: View/ResourcesFiles/edit.ctp:5
+#: View/ResourcesFolders/add.ctp:5
+#: View/ResourcesFolders/edit.ctp:5
+#: View/ResourcesLinks/add.ctp:5
+#: View/ResourcesLinks/edit.ctp:5
+msgid "Resources"
+msgstr ""
+
+#: View/Elements/templates.ctp:9;57;89
+#: View/Elements/folders/list_item.ctp:5
+msgid "me"
+msgstr ""
+
+#: View/Resources/index.ctp:4
+msgid "Administration"
+msgstr ""
+
+#: View/Resources/index.ctp:16
+#: View/ResourcesFiles/add.ctp:3;7
+#: View/ResourcesFolders/add.ctp:3;7
+#: View/ResourcesLinks/add.ctp:3;7
+#: View/ResourcesLinks/edit.ctp:3;7
+msgid "Add"
+msgstr ""
+
+#: View/Resources/index.ctp:25
+msgid "Grid"
+msgstr ""
+
+#: View/Resources/index.ctp:27
+msgid "List"
+msgstr ""
+
+#: View/Resources/index.ctp:31
+msgid "Move to"
+msgstr ""
+
+#: View/Resources/index.ctp:32
+#: View/ResourcesFiles/edit.ctp:3;7
+#: View/ResourcesFolders/edit.ctp:3;7
+msgid "Edit"
+msgstr ""
+
+#: View/Resources/index.ctp:33
+msgid "Delete"
+msgstr ""
+
+#: View/Resources/index.ctp:36
+#: View/Resources/trash.ctp:4;7;20
+msgid "Trash"
+msgstr ""
+
+#: View/Resources/index.ctp:47
+#: View/Resources/trash.ctp:35
+msgid "Title"
+msgstr ""
+
+#: View/Resources/index.ctp:48
+#: View/Resources/trash.ctp:36
+msgid "Owner"
+msgstr ""
+
+#: View/Resources/index.ctp:49
+#: View/Resources/trash.ctp:37
+msgid "Last Update"
+msgstr ""
+
+#: View/Resources/trash.ctp:16
+msgid "Restore"
+msgstr ""
+
+#: View/Resources/trash.ctp:24
+msgid "Back"
+msgstr ""
+
+#: View/ResourcesFiles/add.ctp:3;6
+#: View/ResourcesFiles/edit.ctp:3;6
+msgid "Files"
+msgstr ""
+
+#: View/ResourcesFiles/add.ctp:14
+#: View/ResourcesFiles/edit.ctp:15
+#: View/ResourcesFolders/add.ctp:14
+#: View/ResourcesFolders/edit.ctp:15
+#: View/ResourcesLinks/add.ctp:14
+#: View/ResourcesLinks/edit.ctp:15
+msgid "Name"
+msgstr ""
+
+#: View/ResourcesFiles/add.ctp:18
+#: View/ResourcesFiles/edit.ctp:18
+#: View/ResourcesFolders/add.ctp:17
+#: View/ResourcesFolders/edit.ctp:18
+#: View/ResourcesLinks/add.ctp:18
+#: View/ResourcesLinks/edit.ctp:19
+msgid "Save"
+msgstr ""
+
+#: View/ResourcesFiles/add.ctp:19
+#: View/ResourcesFiles/edit.ctp:19
+#: View/ResourcesFolders/add.ctp:18
+#: View/ResourcesFolders/edit.ctp:19
+#: View/ResourcesLinks/add.ctp:19
+#: View/ResourcesLinks/edit.ctp:20
+msgid "Cancel"
+msgstr ""
+
+#: View/ResourcesFolders/add.ctp:3;6
+#: View/ResourcesFolders/edit.ctp:3;6
+msgid "Folders"
+msgstr ""
+
+#: View/ResourcesLinks/add.ctp:3;6
+#: View/ResourcesLinks/edit.ctp:3;6
+msgid "Links"
+msgstr ""
+

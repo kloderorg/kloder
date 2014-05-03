@@ -1,0 +1,177 @@
+/* > General
+ * ******************************************************************************************** */
+.icarus { display:block; /*border: 1px solid #000;*/ }
+
+/* > Toolbar
+ * ******************************************************************************************** */
+.icarus #search { float:right; padding: 5px; width: 200px; height: 22px; margin: 1px 1px 0 3px; background: #fff url(search.png) right no-repeat; border: 1px solid #ddd; border-radius: 5px; 
+
+-moz-border-radius: 5px; 
+
+-webkit-border-radius: 5px;  }
+.icarus #search.disable { color: #ddd; background-color: #aaa; }
+.icarus #reload, .icarus #filter { float:right; }
+.icarus #icarus-menu-button { margin-top:0px; margin-bottom: 0; height: 18px; }
+.icarus #slider { width: 100px; float:right; margin: 10px 15px;}
+
+/* > Views
+ * ******************************************************************************************** */
+.icarus .views-wrapper { z-index:-1000; overflow:scroll; border: 1px solid #B6C7DA; margin-top: -10px; overflow: -moz-scrollbars-vertical; overflow-x: hidden; overflow-y: auto; width: 100%; height: 100%; border-bottom: none; }
+.icarus .views-wrapper .view { display: block; }
+.icarus .views-wrapper .view ul {z-index:-1000; list-style: none; margin: 0; padding: 0; }
+
+/* > Loading
+ * ******************************************************************************************** */
+.icarus .loading{
+	z-index:1000;
+	position:absolute;
+	top:0; left:0;
+	width:100%; height:100%;
+	background: url('ajax-loader.gif') 50% 50% no-repeat #000;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	-moz-opacity: 0.70;
+	-khtml-opacity: 0.70;
+	opacity: 0.70;
+}
+.icarus .loading.text {
+	text-align: center;
+	vertical-align: middle;
+	background-image: none;
+	/*-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	-moz-opacity: 1;
+	-khtml-opacity: 1;
+	opacity: 1;*/
+	display: table;
+	color: white;
+}
+.icarus .loading.text div {
+	font-size: 24px;
+	padding-top: 50px;
+	vertical-align: middle;
+}
+
+/* > Grid
+ * ******************************************************************************************** */
+.icarus .views-wrapper .view li {
+	width: 110px; 
+	padding: 5px; 
+	text-align: center; 
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px;
+}
+.icarus .views-wrapper .view li.link .icon img {
+	-moz-box-shadow: 2px 2px 2px #ccc;
+	-webkit-box-shadow: 2px 2px 2px #ccc;
+	box-shadow: 2px 2px 2px #ccc;
+	width:50px;height:50px;
+}
+.icarus .views-wrapper .view li .icon-type { position:inherit; }
+.icarus .views-wrapper .view li .title { font-size: 12px; margin-top: 5px; height: 32px; overflow: hidden; text-overflow: ellipsis; }
+.icarus .views-wrapper .view li .type { display:none; }
+.icarus .views-wrapper .view li .tags { display:none; }
+.icarus .views-wrapper .view li .size { display:none; }
+.icarus .views-wrapper .view li .actions {position:relative ;display:none;}
+.icarus .views-wrapper .view li .date-modified { display:none; }
+.icarus .views-wrapper .view li .iconlist { display:none; }
+.icarus .views-wrapper .view li.selected {
+	background-color: #FDB2AF;
+	background: rgba(226,226,226, .5);
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright:10px;
+	-moz-border-radius-bottomleft:10px;
+	-moz-border-radius-bottomright:10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+/*.icarus .views-wrapper .view li:hover {
+	background: rgba(226,226,226, .5); /* Old browsers */
+	/*-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright:10px;
+	-moz-border-radius-bottomleft:10px;
+	-moz-border-radius-bottomright:10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}*/
+.icarus .views-wrapper .view li.drop {
+	background-color: #AFFDE8;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright:10px;
+	-moz-border-radius-bottomleft:10px;
+	-moz-border-radius-bottomright:10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+
+/* > Icons
+ * ******************************************************************************************** */
+.icarus .views-wrapper .view li.folder .icon { width: 124px; height: 124px; }
+.icarus .views-wrapper .view li.folder-back .icon { width: 124px; height: 124px; }
+.icarus .views-wrapper .view li.link .icon { width: 124px; height: 124px; }
+
+/* > InfoBox
+ * ******************************************************************************************** */
+.icarus .infobox { z-index: 10; position:absolute; bottom:30px; margin-bottom:19px; color:#000; display:none; }
+.icarus .infobox .close { text-align: right; width: 95%; }
+.icarus .infobox .info {
+	background: rgba(255,255,0,.8);
+	-webkit-box-shadow: 0px -2px 5px 0px rgba(0, 0, 0, .3);
+	-moz-box-shadow: 0px -2px 5px 0px rgba(0, 0, 0, .3);
+	box-shadow: 0px -2px 5px 0px rgba(0, 0, 0, .3);
+	padding: 10px;
+	height: 120px;
+	overflow:hidden;
+}
+.icarus .infobox .info .thumbnail {	float:left; margin-right: 10px; margin-bottom: 10px; }
+.icarus .infobox .info .actions img { margin-left:5px; z-index:-1000; }
+.icarus .infobox .info .button { font-size: 14px; margin-left: 5px; margin-bottom: 5px; padding: 3px 6px 3px 3px; }
+.icarus .infobox .info .button img { vertical-align:middle; }
+.icarus .infobox .info .comment { margin: 5px 0; }
+
+/* > Status
+ * ******************************************************************************************** */
+.icarus .statusbar { height: 20px; }
+
+/* > Patchs
+ * ******************************************************************************************** */
+div#resources-icarus-upload-dialog {
+	padding: 0;
+	padding-top: 5px;
+}
+
+.plupload_filelist_content { height: auto !important; }
+
+/* > Context Menu icons
+ * ******************************************************************************************** */
+.context-menu-item.icon-launch { background-image: url(actions/link.png); }
+.context-menu-item.icon-view { background-image: url(actions/view.png); }
+.context-menu-item.icon-rename { background-image: url(actions/rename.png); }
+.context-menu-item.icon-copy { background-image: url(actions/copy.png); }
+.context-menu-item.icon-permissions { background-image: url(actions/permissions.png); }
+.context-menu-item.icon-edit { background-image: url(actions/edit.png); }
+.context-menu-item.icon-remove { background-image: url(actions/remove.png); }
+.context-menu-item.icon-download { background-image: url(actions/download.png); }
+.context-menu-item.icon-open { background-image: url(actions/folder-open.png); }
+.context-menu-item.icon-scorm { background-image: url(actions/scorm-generator.png); }
+.context-menu-item.icon-watch { background-image: url(actions/watch.png); }
+.context-menu-item.icon-newfolder { background-image: url(actions/folder-new.png); }
