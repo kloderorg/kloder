@@ -10,17 +10,3 @@
 		</div>
 	</div>
 </div>
-
-<!-- Finances -->
-<div class="row">
-<?php if ($finances) : ?>
-	<div class="col-lg-6">
-		<iframe src="<?php echo $this->Html->url(array('plugin' => 'finances', 'controller' => 'finances_invoices', 'action' => 'widget_year')) ?>" width="100%" height="350" style="border: 0px;"></iframe>
-	</div>
-<?php endif; ?>
-<?php if ($projects) : ?>
-	<div class="col-lg-6">
-		<iframe src="<?php echo $this->Html->url(array('plugin' => 'projects', 'controller' => 'projects_issues', 'action' => 'widget_latest')) ?>" width="100%" height="350" style="border: 0px;"></iframe>
-	</div>
-<?php endif; ?>
-</div>
