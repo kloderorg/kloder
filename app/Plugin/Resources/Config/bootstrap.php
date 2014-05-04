@@ -10,10 +10,10 @@ if(!Configure::check('Resources.extensions')) Configure::write('Resources.extens
 else Configure::write('Resources.extensions', array_merge(Configure::read('Resources.extensions'), $resources_extensions));
 
 
-$sidebar_plugins = array('Resources');
+/*$sidebar_plugins = array('Resources');
 if(!Configure::check('Sidebar.plugins')) Configure::write('Sidebar.plugins', $sidebar_plugins);
 else Configure::write('Sidebar.plugins', array_merge(Configure::read('Sidebar.plugins'), $sidebar_plugins));
-
+*/
 
 
 
